@@ -6,5 +6,6 @@ Hello World!!!
 - https vs ssh url
 - git clone
 - git status
-- git add <file name>
+- git add
+- git commit
 - 
